@@ -1,5 +1,6 @@
 # =============== log ignore
 node_modules/
+.vscode/
 
 # =========================== DO NOT touch below v1.0.0 ===============================
 
@@ -16,4 +17,3 @@ node_modules/
 npm-debug.log
 
 .publishrc
-.npmignore
